@@ -34,17 +34,40 @@ Average Rating
 Average Sales per Item
 These KPIs provide an immediate snapshot of business performance.
 
--Sales by Item Type (Bar Chart)
+-Sales by Item Type (Bar Chart) - 
 Displays revenue distribution across product categories to identify top-performing segments.
 
-Sales by Outlet Location Type (Donut Chart)
+-Sales by Outlet Location Type (Donut Chart) - 
 Highlights revenue contribution from Tier 1, Tier 2, and Tier 3 cities
 
-Outlet Establishment Trend (Line Chart)
+-Outlet Establishment Trend (Line Chart) - 
 Shows growth of outlets over time to analyze expansion trends.
 
-Fat Content Analysis (Bar/Donut Chart)
+-Fat Content Analysis (Bar/Donut Chart) - 
 Compares Low Fat vs Regular product sales contribution.
 
-Outlet Size vs Sales (Stacked Chart)
+-Outlet Size vs Sales (Stacked Chart) - 
 Analyzes how outlet size impacts total revenue generation.
+
+### SQL Validation
+
+SQL queries were written to:
+
+Verify total sales calculations
+Cross-check aggregated revenue values
+Validate category-level grouping
+Ensure KPI consistency between database and dashboard
+This improved data integrity and reporting accuracy.
+
+## 5] Business Impact & Insights
+Identified top-performing product categories driving majority revenue
+
+Revealed outlet size and location type contributing highest sales share
+
+Helped evaluate sales distribution across urban tiers
+
+Improved KPI accuracy through SQL-based validation
+
+Enabled structured reporting and performance benchmarking
+
+## 6] Screenshot
