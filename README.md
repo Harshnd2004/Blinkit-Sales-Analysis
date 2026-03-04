@@ -71,4 +71,4 @@ Improved KPI accuracy through SQL-based validation
 Enabled structured reporting and performance benchmarking
 
 ## 6] Screenshot
-![Dashboard Preview](https://github.com/Harshnd2004/Blinkit-Sales-Analysis/blob/main/Snapshot%20of%20Dashboard.PNG')
+![Dashboard Preview](https://github.com/Harshnd2004/Blinkit-Sales-Analysis/blob/main/Snapshot%20of%20Dashboard.PNG)
